@@ -4,3 +4,6 @@
 
 - Strogonoff de Frango :chicken:
 
+- Galinhada Urbana :chicken:
+
+  
